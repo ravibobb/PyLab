@@ -1,6 +1,0 @@
-user='swarna'
-password='Password01'
-account='fs01479.west-europe.azure'
-warehouse='COMPUTE_WH'
-database='demo_db'
-schema='public'
